@@ -54,9 +54,6 @@
       <DependentUpon>Form1.cs</DependentUpon>
       <Link>Form1.Designer.cs</Link>
     </Compile>
-    <Compile Include="..\..\..\..\Desktop\Missile.cs">
-      <Link>Missile.cs</Link>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Car.cs" />

@@ -10,7 +10,7 @@ namespace Missile_follow
 {
     class Car
     {
-        //s
+       
         // declare fields to use in the class
         public double xSpeed, ySpeed;
         public int x, y, width, height;//variables for the rectangle
